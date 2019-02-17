@@ -1,2 +1,2 @@
-# balloon_game2D
-A 2D Balloon Game
+# Haxagon
+A 2D Hexagon Game
